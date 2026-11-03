@@ -6,8 +6,8 @@
         "id": "f46eccd2-c700-4747-982c-37ec4b6dd912",
         "type": "Table",
         "position": {
-          "x": 941.557248751415,
-          "y": 238.58731466066854
+          "x": 845.4120891912771,
+          "y": 233.21615028651718
         },
         "data": {
           "label": "CUSTOMER",
@@ -18,63 +18,82 @@
               "name": "customer_id",
               "type": "INT",
               "isPrimaryKey": true,
-              "isOptional": false
+              "isOptional": false,
+              "isUnique": false
             },
             {
               "id": "0dfe3b39-3f6e-42f4-b561-f72f941b1f99",
               "name": "first_name",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "50",
+              "isUnique": false
             },
             {
               "id": "3e6616f9-5440-4ecc-bc55-960d364ce3f2",
               "name": "last_name",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "50",
+              "isUnique": false
             },
             {
               "id": "2816aada-fe94-4915-84a3-0a57dd911694",
               "name": "email",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100",
+              "isUnique": true
             },
             {
               "id": "47b61587-7536-4f0f-95bb-06661f564b5f",
               "name": "phone_num",
-              "type": "INT",
+              "type": "VARCHAR(n)",
               "isPrimaryKey": false,
-              "isOptional": true
+              "isOptional": true,
+              "size": "20",
+              "isUnique": false
             },
             {
               "id": "106e63fa-b11c-408a-bf98-045a441a8bf5",
               "name": "add_line_1",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100",
+              "isUnique": false
             },
             {
               "id": "9403fd54-6023-44a8-a56d-42e495b43538",
               "name": "add_line_2",
-              "type": "INT",
+              "type": "VARCHAR(n)",
               "isPrimaryKey": false,
-              "isOptional": true
+              "isOptional": true,
+              "size": "100",
+              "isUnique": false
             },
             {
               "id": "9debbda8-44b5-4841-81ad-8f36eb538764",
               "name": "city",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "50",
+              "isUnique": false
             },
             {
               "id": "f47a72cc-5f66-4901-8b9d-a453a5bb4777",
               "name": "postcode",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "10",
+              "isUnique": false
             },
             {
               "id": "04fca272-171d-45ec-9d05-007f7ce4c603",
               "name": "country",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "50",
+              "isUnique": false
             }
           ],
           "numberOfGroups": 0,
@@ -91,8 +110,8 @@
         "id": "e8638e78-aa04-42ac-a79c-84f092c7512b",
         "type": "Table",
         "position": {
-          "x": 1715.5230018215962,
-          "y": 607.7242239886398
+          "x": 1451.5634948202367,
+          "y": 234.0403121777727
         },
         "data": {
           "label": "PRODUCT",
@@ -108,21 +127,24 @@
             {
               "id": "61e84de7-ff88-44a7-ab36-a1bfed90d5f9",
               "name": "product_name",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "100"
             },
             {
               "id": "6c537877-c18c-43cc-9302-019005dcae6f",
               "name": "description",
-              "type": "INT",
+              "type": "VARCHAR(n)",
               "isPrimaryKey": false,
-              "isOptional": true
+              "isOptional": true,
+              "size": "500"
             },
             {
               "id": "98a854ec-5453-4081-afd4-5c2acfa16ffa",
               "name": "product_price",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "NUMERIC(p s)",
+              "isPrimaryKey": false,
+              "size": "10,2"
             }
           ],
           "numberOfGroups": 0,
@@ -139,8 +161,8 @@
         "id": "6e88fe45-30a9-408d-ba32-d6a9daca5357",
         "type": "Table",
         "position": {
-          "x": 940.0064690579954,
-          "y": 607.0326814490093
+          "x": 840.2390008084218,
+          "y": 605.6789730983655
         },
         "data": {
           "label": "ORDER",
@@ -151,51 +173,64 @@
               "name": "order_id",
               "type": "INT",
               "isPrimaryKey": true,
-              "isOptional": false
+              "isOptional": false,
+              "position": 0
             },
             {
               "id": "bb6334df-be52-4e53-9854-8fa39c21f22d",
               "name": "order_date",
-              "type": "INT",
-              "isPrimaryKey": false
-            },
-            {
-              "id": "c7a378a2-1db5-4458-857e-f026c201fc4e",
-              "name": "add_line_1",
-              "type": "INT",
-              "isPrimaryKey": false
-            },
-            {
-              "id": "547b7d81-4df6-451a-80cd-cd3682efa229",
-              "name": "add_line_2",
-              "type": "INT",
+              "type": "DATE",
               "isPrimaryKey": false,
-              "isOptional": true
-            },
-            {
-              "id": "207f95ad-645b-4c80-9514-9534e390f74f",
-              "name": "city",
-              "type": "INT",
-              "isPrimaryKey": false
-            },
-            {
-              "id": "d4e061aa-1f54-4c9d-9b5e-c5656b3bf32a",
-              "name": "postcode",
-              "type": "INT",
-              "isPrimaryKey": false
-            },
-            {
-              "id": "2ad13392-8820-439d-a081-237b1ba4fe92",
-              "name": "country",
-              "type": "INT",
-              "isPrimaryKey": false
+              "position": 1
             },
             {
               "id": "1819764e-5721-410c-b054-186d81b353ba",
               "name": "delivery_date",
-              "type": "INT",
+              "type": "DATE",
               "isPrimaryKey": false,
-              "isOptional": true
+              "isOptional": true,
+              "position": 2
+            },
+            {
+              "id": "c7a378a2-1db5-4458-857e-f026c201fc4e",
+              "name": "add_line_1",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "position": 3,
+              "size": "100"
+            },
+            {
+              "id": "547b7d81-4df6-451a-80cd-cd3682efa229",
+              "name": "add_line_2",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "isOptional": true,
+              "position": 4,
+              "size": "100"
+            },
+            {
+              "id": "207f95ad-645b-4c80-9514-9534e390f74f",
+              "name": "city",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "position": 5,
+              "size": "50"
+            },
+            {
+              "id": "d4e061aa-1f54-4c9d-9b5e-c5656b3bf32a",
+              "name": "postcode",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "position": 6,
+              "size": "10"
+            },
+            {
+              "id": "2ad13392-8820-439d-a081-237b1ba4fe92",
+              "name": "country",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "position": 7,
+              "size": "50"
             },
             {
               "id": "aee1599e-54e8-4326-b17d-c8e203d48316",
@@ -213,7 +248,8 @@
                   }
                 ]
               },
-              "isOptional": false
+              "isOptional": false,
+              "position": 8
             }
           ],
           "numberOfGroups": 0,
@@ -230,32 +266,13 @@
         "id": "3cfb5235-0dbe-4be6-bf67-b87825cfb1eb",
         "type": "Table",
         "position": {
-          "x": 1715.5631057718538,
-          "y": 235.92624670395577
+          "x": 1147.6249823450103,
+          "y": 208.30876041416724
         },
         "data": {
           "label": "REVIEW",
           "isConnectable": false,
           "columns": [
-            {
-              "id": "a24923dc-75ba-44b2-8061-1e8f06ac409d",
-              "name": "rating",
-              "type": "INT",
-              "isPrimaryKey": false
-            },
-            {
-              "id": "07eebe31-7263-412d-a147-754304d7e2af",
-              "name": "description",
-              "type": "INT",
-              "isPrimaryKey": false,
-              "isOptional": true
-            },
-            {
-              "id": "a72e4c43-7572-4f67-ab76-bb30de316216",
-              "name": "review_date",
-              "type": "INT",
-              "isPrimaryKey": false
-            },
             {
               "id": "c6568a16-2a46-4996-9a72-57b74fba5d03",
               "name": "fk_PRODUCT",
@@ -273,7 +290,8 @@
                 ]
               },
               "isOptional": false,
-              "isPrimaryKey": true
+              "isPrimaryKey": true,
+              "position": 0
             },
             {
               "id": "af7d8eb9-3151-41a0-b538-0aeb56e4550b",
@@ -292,7 +310,31 @@
                 ]
               },
               "isOptional": false,
-              "isPrimaryKey": true
+              "isPrimaryKey": true,
+              "position": 1
+            },
+            {
+              "id": "a24923dc-75ba-44b2-8061-1e8f06ac409d",
+              "name": "rating",
+              "type": "INT",
+              "isPrimaryKey": false,
+              "position": 2
+            },
+            {
+              "id": "07eebe31-7263-412d-a147-754304d7e2af",
+              "name": "description",
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "isOptional": true,
+              "position": 3,
+              "size": "500"
+            },
+            {
+              "id": "a72e4c43-7572-4f67-ab76-bb30de316216",
+              "name": "review_date",
+              "type": "DATE",
+              "isPrimaryKey": false,
+              "position": 4
             }
           ],
           "numberOfGroups": 0,
@@ -309,8 +351,8 @@
         "id": "7899ce51-a60b-43b4-90cf-7c689b23ca03",
         "type": "Table",
         "position": {
-          "x": 1327.764735439796,
-          "y": 607.3784527188245
+          "x": 1451.6276217934858,
+          "y": 605.432788322758
         },
         "data": {
           "label": "ORDER-PRODUCT",
@@ -325,20 +367,23 @@
             {
               "id": "3fc3b9b9-24b5-4baa-a502-40aace55f81c",
               "name": "size",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "3"
             },
             {
               "id": "1d07c139-4845-4789-bcb1-21033f8a522b",
               "name": "colour",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "VARCHAR(n)",
+              "isPrimaryKey": false,
+              "size": "30"
             },
             {
               "id": "7911adaa-f906-42c9-ba79-22700b530511",
               "name": "unit_price",
-              "type": "INT",
-              "isPrimaryKey": false
+              "type": "NUMERIC(p s)",
+              "isPrimaryKey": false,
+              "size": "10, 2"
             },
             {
               "id": "54246589-28a3-4523-bc58-08b7d5a5e390",
@@ -508,9 +553,9 @@
       }
     ],
     "viewport": {
-      "x": -561.4557232800187,
-      "y": -116.43926076444296,
-      "zoom": 0.9085989400598795
+      "x": -348.4343520235898,
+      "y": -115.01715520189754,
+      "zoom": 0.8503642993239376
     }
   },
   "name": "E-COMMERCE-Relational Schema",
@@ -521,5 +566,5 @@
     "id": 447759
   },
   "id": 716817,
-  "updatedAtTimestamp": 1793719659
+  "updatedAtTimestamp": 1793725433
 }

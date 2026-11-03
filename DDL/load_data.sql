@@ -1,0 +1,5 @@
+\copy CUSTOMER      FROM '/path/to/Synthetic_Data/CUSTOMER.csv'      WITH (FORMAT csv, HEADER true)
+\copy PRODUCT       FROM '/path/to/Synthetic_Data/PRODUCT.csv'       WITH (FORMAT csv, HEADER true)
+\copy ORDERS        FROM '/path/to/Synthetic_Data/ORDERS.csv'        WITH (FORMAT csv, HEADER true)
+\copy ORDER_PRODUCT FROM '/path/to/Synthetic_Data/ORDER_PRODUCT.csv' WITH (FORMAT csv, HEADER true)
+\copy REVIEW        FROM '/path/to/Synthetic_Data/REVIEW.csv'        WITH (FORMAT csv, HEADER true)

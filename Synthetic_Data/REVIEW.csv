@@ -1,0 +1,801 @@
+customer_id,product_id,rating,description,review_date
+291,77,2,,2024-01-19
+29,36,1,Poor quality fabric and the stitching came loose.,2024-01-26
+475,47,1,,2024-02-01
+698,25,4,Really comfortable and fits well.,2024-02-04
+146,79,2,,2024-02-04
+691,12,4,Lovely fabric. Only wish it came in more colours.,2024-02-06
+515,46,0,Worst purchase I've made. Would not recommend.,2024-02-07
+421,62,0,,2024-02-08
+860,41,3,"Average quality, comfortable enough.",2024-02-08
+752,1,0,Nothing like the photos. Returned it.,2024-02-09
+864,62,4,Lovely fabric. Only wish it came in more colours.,2024-02-12
+366,23,4,"Good quality, would buy again.",2024-02-14
+145,29,4,,2024-02-17
+913,42,5,Absolutely love it! Perfect fit.,2024-02-18
+395,16,3,Decent for the price. Does the job.,2024-02-19
+128,46,5,"Brilliant quality, already ordered another colour.",2024-02-20
+93,12,1,Sizing was way off and it felt cheap.,2024-02-26
+452,55,5,"Brilliant quality, already ordered another colour.",2024-02-27
+552,73,3,,2024-02-27
+963,9,0,,2024-02-29
+195,42,5,,2024-03-01
+452,66,0,Nothing like the photos. Returned it.,2024-03-01
+93,57,0,,2024-03-01
+35,7,4,Lovely fabric. Only wish it came in more colours.,2024-03-03
+993,63,4,"Good quality, would buy again.",2024-03-03
+152,9,4,"Good quality, would buy again.",2024-03-04
+395,39,3,Nice colour but runs a bit small.,2024-03-04
+688,26,4,,2024-03-06
+193,60,1,Poor quality fabric and the stitching came loose.,2024-03-10
+875,17,3,"Average quality, comfortable enough.",2024-03-10
+38,60,3,Nice colour but runs a bit small.,2024-03-11
+441,64,0,Nothing like the photos. Returned it.,2024-03-12
+667,74,3,Decent for the price. Does the job.,2024-03-15
+382,77,0,Fell apart after one wash. Very disappointed.,2024-03-15
+52,5,1,,2024-03-15
+273,39,1,,2024-03-16
+921,28,3,Nice colour but runs a bit small.,2024-03-17
+218,77,5,"Brilliant quality, already ordered another colour.",2024-03-18
+957,16,5,My new favourite. Washes really well too.,2024-03-19
+506,42,0,Worst purchase I've made. Would not recommend.,2024-03-19
+211,47,4,Lovely fabric. Only wish it came in more colours.,2024-03-19
+93,1,0,Fell apart after one wash. Very disappointed.,2024-03-22
+652,16,4,,2024-03-22
+468,25,1,Sizing was way off and it felt cheap.,2024-03-22
+640,36,2,Okay but the fit wasn't great for me.,2024-03-24
+866,12,4,"Good quality, would buy again.",2024-03-25
+273,15,1,Sizing was way off and it felt cheap.,2024-03-26
+703,48,4,"Good quality, would buy again.",2024-03-29
+335,12,0,,2024-03-29
+395,66,1,,2024-03-30
+516,40,3,Decent for the price. Does the job.,2024-03-31
+114,71,4,Lovely fabric. Only wish it came in more colours.,2024-04-01
+181,56,4,,2024-04-04
+604,16,0,Nothing like the photos. Returned it.,2024-04-04
+508,23,4,Really comfortable and fits well.,2024-04-05
+195,45,5,Absolutely love it! Perfect fit.,2024-04-06
+995,47,1,Sizing was way off and it felt cheap.,2024-04-06
+609,33,0,Worst purchase I've made. Would not recommend.,2024-04-08
+248,29,3,"Average quality, comfortable enough.",2024-04-10
+212,27,0,Worst purchase I've made. Would not recommend.,2024-04-12
+866,26,1,,2024-04-15
+189,32,0,Worst purchase I've made. Would not recommend.,2024-04-18
+63,77,2,Okay but the fit wasn't great for me.,2024-04-19
+564,78,2,Okay but the fit wasn't great for me.,2024-04-19
+964,48,2,Okay but the fit wasn't great for me.,2024-04-21
+382,62,2,Okay but the fit wasn't great for me.,2024-04-23
+475,9,5,My new favourite. Washes really well too.,2024-04-23
+304,6,5,My new favourite. Washes really well too.,2024-04-24
+444,74,5,Absolutely love it! Perfect fit.,2024-04-26
+243,35,4,Really comfortable and fits well.,2024-04-27
+956,41,3,Nice colour but runs a bit small.,2024-04-27
+234,64,1,Sizing was way off and it felt cheap.,2024-04-29
+261,3,5,My new favourite. Washes really well too.,2024-05-02
+867,19,0,Worst purchase I've made. Would not recommend.,2024-05-02
+844,36,1,Sizing was way off and it felt cheap.,2024-05-04
+532,58,2,,2024-05-05
+652,45,0,Fell apart after one wash. Very disappointed.,2024-05-05
+210,59,4,Lovely fabric. Only wish it came in more colours.,2024-05-06
+102,60,3,"Average quality, comfortable enough.",2024-05-07
+102,21,4,Really comfortable and fits well.,2024-05-07
+732,80,4,Really comfortable and fits well.,2024-05-08
+597,49,3,Decent for the price. Does the job.,2024-05-09
+791,29,5,My new favourite. Washes really well too.,2024-05-10
+363,79,3,,2024-05-11
+38,62,4,,2024-05-13
+988,36,5,Absolutely love it! Perfect fit.,2024-05-13
+243,45,2,Material is thinner than expected.,2024-05-14
+720,73,4,,2024-05-14
+576,45,3,Decent for the price. Does the job.,2024-05-14
+703,69,2,"Not terrible, but I expected better for the price.",2024-05-16
+236,36,3,"Average quality, comfortable enough.",2024-05-16
+839,25,0,,2024-05-17
+575,19,1,Colour faded quickly. Not worth the money.,2024-05-17
+804,1,1,Poor quality fabric and the stitching came loose.,2024-05-17
+438,25,4,Really comfortable and fits well.,2024-05-18
+38,26,0,Fell apart after one wash. Very disappointed.,2024-05-24
+637,1,2,,2024-05-29
+24,29,5,"Brilliant quality, already ordered another colour.",2024-05-31
+62,10,1,Poor quality fabric and the stitching came loose.,2024-06-01
+373,77,4,Lovely fabric. Only wish it came in more colours.,2024-06-02
+474,16,3,Decent for the price. Does the job.,2024-06-02
+672,34,4,Really comfortable and fits well.,2024-06-02
+21,62,0,Worst purchase I've made. Would not recommend.,2024-06-08
+355,41,0,Fell apart after one wash. Very disappointed.,2024-06-10
+134,67,0,Worst purchase I've made. Would not recommend.,2024-06-12
+266,16,0,,2024-06-13
+844,25,0,Nothing like the photos. Returned it.,2024-06-14
+802,11,3,Nice colour but runs a bit small.,2024-06-16
+281,33,4,,2024-06-20
+798,75,4,Really comfortable and fits well.,2024-06-20
+560,2,4,"Good quality, would buy again.",2024-06-22
+591,33,0,Fell apart after one wash. Very disappointed.,2024-06-22
+189,75,3,"Average quality, comfortable enough.",2024-06-28
+1000,66,3,"Average quality, comfortable enough.",2024-06-29
+532,77,1,Sizing was way off and it felt cheap.,2024-07-01
+345,40,0,,2024-07-02
+466,78,2,Material is thinner than expected.,2024-07-03
+760,13,1,Poor quality fabric and the stitching came loose.,2024-07-05
+720,66,3,,2024-07-06
+592,7,3,,2024-07-08
+844,12,3,"Average quality, comfortable enough.",2024-07-09
+633,15,4,Lovely fabric. Only wish it came in more colours.,2024-07-09
+523,1,2,Okay but the fit wasn't great for me.,2024-07-10
+188,71,5,Absolutely love it! Perfect fit.,2024-07-13
+118,11,2,Okay but the fit wasn't great for me.,2024-07-14
+452,50,1,Colour faded quickly. Not worth the money.,2024-07-15
+686,68,5,,2024-07-17
+848,79,1,Colour faded quickly. Not worth the money.,2024-07-19
+35,25,4,Lovely fabric. Only wish it came in more colours.,2024-07-19
+294,48,5,,2024-07-20
+312,1,2,Okay but the fit wasn't great for me.,2024-07-20
+727,25,2,"Not terrible, but I expected better for the price.",2024-07-21
+917,64,4,Lovely fabric. Only wish it came in more colours.,2024-07-21
+420,19,5,Absolutely love it! Perfect fit.,2024-07-21
+994,10,4,Really comfortable and fits well.,2024-07-21
+567,37,5,,2024-07-22
+374,77,2,"Not terrible, but I expected better for the price.",2024-07-24
+276,53,3,Decent for the price. Does the job.,2024-07-26
+19,63,4,,2024-07-26
+714,2,0,Worst purchase I've made. Would not recommend.,2024-07-26
+945,69,5,"Brilliant quality, already ordered another colour.",2024-07-27
+359,71,4,,2024-07-27
+574,7,5,,2024-07-27
+567,53,3,Nice colour but runs a bit small.,2024-07-30
+232,77,0,,2024-07-31
+745,12,4,,2024-08-01
+936,35,4,Lovely fabric. Only wish it came in more colours.,2024-08-02
+920,62,3,Nice colour but runs a bit small.,2024-08-02
+228,79,3,"Average quality, comfortable enough.",2024-08-03
+624,41,5,,2024-08-03
+750,48,0,Fell apart after one wash. Very disappointed.,2024-08-03
+624,60,5,My new favourite. Washes really well too.,2024-08-06
+754,46,2,"Not terrible, but I expected better for the price.",2024-08-10
+564,46,4,,2024-08-10
+692,48,0,Worst purchase I've made. Would not recommend.,2024-08-11
+683,11,1,,2024-08-11
+902,2,1,Poor quality fabric and the stitching came loose.,2024-08-14
+931,48,4,Lovely fabric. Only wish it came in more colours.,2024-08-16
+745,61,5,,2024-08-18
+123,79,0,,2024-08-22
+761,25,4,,2024-08-22
+712,38,2,,2024-08-22
+749,25,1,Poor quality fabric and the stitching came loose.,2024-08-22
+498,7,2,Material is thinner than expected.,2024-08-25
+501,29,1,Poor quality fabric and the stitching came loose.,2024-08-25
+263,41,5,,2024-08-28
+396,53,0,Nothing like the photos. Returned it.,2024-08-31
+381,55,3,,2024-09-03
+904,35,3,"Average quality, comfortable enough.",2024-09-06
+574,28,1,Sizing was way off and it felt cheap.,2024-09-07
+712,48,1,,2024-09-10
+213,33,3,,2024-09-11
+783,59,4,,2024-09-12
+200,25,3,,2024-09-12
+360,40,3,Nice colour but runs a bit small.,2024-09-13
+200,64,3,"Average quality, comfortable enough.",2024-09-15
+709,60,0,,2024-09-15
+749,76,4,,2024-09-15
+360,77,2,"Not terrible, but I expected better for the price.",2024-09-16
+361,48,1,,2024-09-20
+509,15,2,Material is thinner than expected.,2024-09-20
+477,56,0,Worst purchase I've made. Would not recommend.,2024-09-22
+225,21,3,Nice colour but runs a bit small.,2024-09-22
+876,48,1,,2024-09-23
+514,58,3,,2024-09-24
+618,36,1,Poor quality fabric and the stitching came loose.,2024-09-27
+675,20,5,Absolutely love it! Perfect fit.,2024-09-28
+260,7,2,Okay but the fit wasn't great for me.,2024-09-29
+362,26,5,My new favourite. Washes really well too.,2024-10-04
+39,23,0,Nothing like the photos. Returned it.,2024-10-04
+842,61,2,"Not terrible, but I expected better for the price.",2024-10-05
+920,46,2,"Not terrible, but I expected better for the price.",2024-10-06
+966,4,5,My new favourite. Washes really well too.,2024-10-07
+574,25,2,,2024-10-07
+482,25,2,Okay but the fit wasn't great for me.,2024-10-08
+233,25,1,,2024-10-10
+796,46,0,Worst purchase I've made. Would not recommend.,2024-10-13
+595,52,2,,2024-10-14
+590,63,5,,2024-10-18
+416,29,5,Absolutely love it! Perfect fit.,2024-10-19
+649,23,4,,2024-10-19
+69,66,0,,2024-10-20
+79,75,1,Sizing was way off and it felt cheap.,2024-10-20
+876,2,3,Nice colour but runs a bit small.,2024-10-21
+158,61,5,Absolutely love it! Perfect fit.,2024-10-22
+649,12,3,,2024-10-22
+416,31,0,Fell apart after one wash. Very disappointed.,2024-10-23
+378,66,4,"Good quality, would buy again.",2024-10-23
+333,18,2,Okay but the fit wasn't great for me.,2024-10-24
+724,76,2,Material is thinner than expected.,2024-10-24
+371,41,5,Absolutely love it! Perfect fit.,2024-10-27
+914,14,3,Decent for the price. Does the job.,2024-10-27
+248,76,1,Sizing was way off and it felt cheap.,2024-10-29
+403,62,0,Worst purchase I've made. Would not recommend.,2024-10-29
+351,47,0,Fell apart after one wash. Very disappointed.,2024-10-29
+913,67,2,Material is thinner than expected.,2024-10-30
+598,25,2,Okay but the fit wasn't great for me.,2024-11-02
+832,68,1,Poor quality fabric and the stitching came loose.,2024-11-02
+82,69,4,,2024-11-03
+101,68,1,Poor quality fabric and the stitching came loose.,2024-11-08
+291,66,5,My new favourite. Washes really well too.,2024-11-09
+51,72,1,,2024-11-10
+731,71,3,Nice colour but runs a bit small.,2024-11-10
+97,22,4,Really comfortable and fits well.,2024-11-11
+358,79,3,Nice colour but runs a bit small.,2024-11-11
+403,66,3,Nice colour but runs a bit small.,2024-11-12
+770,22,3,,2024-11-17
+259,21,1,Colour faded quickly. Not worth the money.,2024-11-20
+468,41,1,,2024-11-21
+832,42,3,"Average quality, comfortable enough.",2024-11-23
+125,32,4,,2024-11-23
+130,77,3,,2024-11-24
+284,53,4,"Good quality, would buy again.",2024-11-24
+518,66,2,"Not terrible, but I expected better for the price.",2024-11-25
+753,18,1,Colour faded quickly. Not worth the money.,2024-11-28
+774,16,4,"Good quality, would buy again.",2024-11-28
+792,14,1,Sizing was way off and it felt cheap.,2024-11-29
+837,9,2,Okay but the fit wasn't great for me.,2024-11-29
+169,22,4,,2024-12-03
+507,74,3,"Average quality, comfortable enough.",2024-12-04
+837,36,0,Fell apart after one wash. Very disappointed.,2024-12-10
+751,53,2,Okay but the fit wasn't great for me.,2024-12-10
+591,73,0,Worst purchase I've made. Would not recommend.,2024-12-11
+725,70,1,Colour faded quickly. Not worth the money.,2024-12-14
+972,41,3,Decent for the price. Does the job.,2024-12-15
+306,22,3,Nice colour but runs a bit small.,2024-12-16
+245,51,0,Nothing like the photos. Returned it.,2024-12-18
+510,20,5,,2024-12-21
+683,22,2,Material is thinner than expected.,2024-12-21
+163,36,2,"Not terrible, but I expected better for the price.",2024-12-22
+414,64,4,"Good quality, would buy again.",2024-12-23
+562,53,3,Decent for the price. Does the job.,2024-12-24
+846,16,5,,2024-12-25
+945,12,2,Okay but the fit wasn't great for me.,2024-12-25
+931,37,1,,2024-12-25
+912,17,0,,2024-12-28
+482,43,3,,2024-12-28
+48,15,1,,2024-12-29
+248,14,5,My new favourite. Washes really well too.,2025-01-01
+163,62,1,Poor quality fabric and the stitching came loose.,2025-01-02
+869,12,0,,2025-01-05
+193,14,4,Really comfortable and fits well.,2025-01-06
+486,7,3,Decent for the price. Does the job.,2025-01-06
+619,36,3,"Average quality, comfortable enough.",2025-01-09
+161,54,5,"Brilliant quality, already ordered another colour.",2025-01-09
+181,62,2,Okay but the fit wasn't great for me.,2025-01-09
+6,77,5,"Brilliant quality, already ordered another colour.",2025-01-09
+542,4,3,,2025-01-09
+577,57,2,Okay but the fit wasn't great for me.,2025-01-09
+89,33,3,Decent for the price. Does the job.,2025-01-10
+402,25,3,Nice colour but runs a bit small.,2025-01-10
+912,64,1,,2025-01-11
+6,34,1,Sizing was way off and it felt cheap.,2025-01-12
+344,77,5,Absolutely love it! Perfect fit.,2025-01-12
+796,15,4,Lovely fabric. Only wish it came in more colours.,2025-01-13
+168,4,0,Nothing like the photos. Returned it.,2025-01-14
+180,45,1,Colour faded quickly. Not worth the money.,2025-01-16
+759,31,2,"Not terrible, but I expected better for the price.",2025-01-16
+619,12,3,Decent for the price. Does the job.,2025-01-16
+920,67,2,"Not terrible, but I expected better for the price.",2025-01-16
+89,68,1,Poor quality fabric and the stitching came loose.,2025-01-17
+455,58,0,Worst purchase I've made. Would not recommend.,2025-01-17
+649,7,1,,2025-01-18
+773,10,3,Nice colour but runs a bit small.,2025-01-20
+272,48,3,"Average quality, comfortable enough.",2025-01-21
+486,36,1,Poor quality fabric and the stitching came loose.,2025-01-22
+984,75,2,Material is thinner than expected.,2025-01-26
+508,6,2,"Not terrible, but I expected better for the price.",2025-01-26
+579,15,1,Colour faded quickly. Not worth the money.,2025-01-26
+665,25,0,,2025-01-27
+258,72,1,Poor quality fabric and the stitching came loose.,2025-01-28
+973,18,0,Nothing like the photos. Returned it.,2025-01-29
+105,79,3,"Average quality, comfortable enough.",2025-01-30
+535,12,3,Decent for the price. Does the job.,2025-01-30
+869,25,3,,2025-02-01
+866,31,4,Really comfortable and fits well.,2025-02-01
+321,16,4,Lovely fabric. Only wish it came in more colours.,2025-02-01
+606,10,4,Really comfortable and fits well.,2025-02-05
+237,26,2,Material is thinner than expected.,2025-02-07
+107,23,1,Sizing was way off and it felt cheap.,2025-02-08
+188,77,2,,2025-02-09
+47,31,1,,2025-02-10
+237,62,4,,2025-02-13
+881,15,3,"Average quality, comfortable enough.",2025-02-15
+697,43,3,Decent for the price. Does the job.,2025-02-16
+161,60,4,Really comfortable and fits well.,2025-02-17
+606,34,2,Okay but the fit wasn't great for me.,2025-02-19
+289,14,1,Poor quality fabric and the stitching came loose.,2025-02-19
+369,25,5,,2025-02-21
+93,62,0,,2025-02-21
+960,10,0,Worst purchase I've made. Would not recommend.,2025-02-22
+301,25,0,Worst purchase I've made. Would not recommend.,2025-02-23
+278,50,4,"Good quality, would buy again.",2025-02-23
+984,32,0,Nothing like the photos. Returned it.,2025-02-24
+272,71,5,,2025-02-24
+93,9,3,Nice colour but runs a bit small.,2025-02-26
+135,72,3,,2025-02-28
+95,77,5,"Brilliant quality, already ordered another colour.",2025-03-01
+602,9,2,Okay but the fit wasn't great for me.,2025-03-04
+452,28,4,,2025-03-06
+136,22,1,,2025-03-07
+493,3,4,Lovely fabric. Only wish it came in more colours.,2025-03-08
+949,63,3,,2025-03-09
+188,32,2,Okay but the fit wasn't great for me.,2025-03-10
+62,32,2,,2025-03-10
+135,12,0,,2025-03-11
+31,46,2,,2025-03-11
+567,76,1,,2025-03-14
+458,50,1,,2025-03-14
+949,39,2,"Not terrible, but I expected better for the price.",2025-03-15
+98,12,5,,2025-03-18
+25,73,2,Okay but the fit wasn't great for me.,2025-03-19
+249,60,5,"Brilliant quality, already ordered another colour.",2025-03-19
+881,77,3,"Average quality, comfortable enough.",2025-03-19
+603,16,0,Worst purchase I've made. Would not recommend.,2025-03-20
+324,8,4,Really comfortable and fits well.,2025-03-22
+378,58,0,Nothing like the photos. Returned it.,2025-03-22
+75,42,2,,2025-03-23
+652,38,0,Nothing like the photos. Returned it.,2025-03-24
+609,77,1,,2025-03-24
+172,10,5,,2025-03-27
+287,36,0,Worst purchase I've made. Would not recommend.,2025-03-27
+757,29,2,Material is thinner than expected.,2025-03-29
+757,43,4,Really comfortable and fits well.,2025-03-29
+940,25,3,Nice colour but runs a bit small.,2025-03-30
+665,51,4,Really comfortable and fits well.,2025-03-31
+393,45,0,Worst purchase I've made. Would not recommend.,2025-03-31
+168,21,2,,2025-04-02
+62,16,5,Absolutely love it! Perfect fit.,2025-04-03
+854,66,1,Sizing was way off and it felt cheap.,2025-04-05
+929,70,5,Absolutely love it! Perfect fit.,2025-04-09
+262,60,0,Fell apart after one wash. Very disappointed.,2025-04-12
+661,61,1,Sizing was way off and it felt cheap.,2025-04-13
+188,9,0,,2025-04-13
+759,17,4,,2025-04-14
+701,77,1,,2025-04-15
+705,39,3,Decent for the price. Does the job.,2025-04-16
+879,26,5,,2025-04-17
+209,47,0,,2025-04-21
+689,49,5,Absolutely love it! Perfect fit.,2025-04-21
+245,63,0,Worst purchase I've made. Would not recommend.,2025-04-22
+841,58,2,,2025-04-24
+848,55,4,Lovely fabric. Only wish it came in more colours.,2025-04-25
+887,57,1,,2025-05-01
+11,38,1,Sizing was way off and it felt cheap.,2025-05-05
+951,14,5,,2025-05-07
+665,22,5,,2025-05-08
+343,43,1,Sizing was way off and it felt cheap.,2025-05-10
+972,58,3,,2025-05-11
+216,77,4,,2025-05-11
+887,68,3,"Average quality, comfortable enough.",2025-05-12
+875,32,0,Nothing like the photos. Returned it.,2025-05-13
+11,41,1,Sizing was way off and it felt cheap.,2025-05-14
+212,16,5,,2025-05-16
+666,77,5,Absolutely love it! Perfect fit.,2025-05-17
+626,28,0,,2025-05-21
+269,46,1,Poor quality fabric and the stitching came loose.,2025-05-22
+50,77,1,Sizing was way off and it felt cheap.,2025-05-22
+723,16,5,"Brilliant quality, already ordered another colour.",2025-05-23
+979,6,3,"Average quality, comfortable enough.",2025-05-23
+288,77,5,,2025-05-24
+60,15,4,Lovely fabric. Only wish it came in more colours.,2025-05-27
+844,77,2,Material is thinner than expected.,2025-05-29
+810,56,5,My new favourite. Washes really well too.,2025-05-30
+776,14,4,,2025-05-30
+344,67,5,,2025-05-30
+495,59,1,,2025-06-01
+46,5,0,,2025-06-02
+478,7,2,"Not terrible, but I expected better for the price.",2025-06-03
+365,16,5,Absolutely love it! Perfect fit.,2025-06-03
+405,26,2,Material is thinner than expected.,2025-06-07
+276,14,4,"Good quality, would buy again.",2025-06-07
+481,66,5,My new favourite. Washes really well too.,2025-06-08
+405,22,5,Absolutely love it! Perfect fit.,2025-06-08
+337,77,3,"Average quality, comfortable enough.",2025-06-08
+84,60,2,,2025-06-10
+740,12,5,"Brilliant quality, already ordered another colour.",2025-06-12
+366,48,3,,2025-06-12
+152,77,1,Poor quality fabric and the stitching came loose.,2025-06-12
+740,67,5,"Brilliant quality, already ordered another colour.",2025-06-14
+904,23,2,,2025-06-15
+767,77,4,"Good quality, would buy again.",2025-06-16
+236,49,1,,2025-06-17
+743,29,1,Poor quality fabric and the stitching came loose.,2025-06-18
+430,36,4,,2025-06-19
+856,25,1,Colour faded quickly. Not worth the money.,2025-06-19
+75,11,0,,2025-06-25
+483,57,1,Colour faded quickly. Not worth the money.,2025-06-25
+291,62,5,Absolutely love it! Perfect fit.,2025-06-27
+295,3,5,Absolutely love it! Perfect fit.,2025-06-28
+762,52,0,Fell apart after one wash. Very disappointed.,2025-06-30
+566,77,0,Worst purchase I've made. Would not recommend.,2025-07-01
+46,53,4,Really comfortable and fits well.,2025-07-03
+526,80,5,Absolutely love it! Perfect fit.,2025-07-04
+266,77,5,,2025-07-06
+545,72,3,"Average quality, comfortable enough.",2025-07-08
+722,77,3,"Average quality, comfortable enough.",2025-07-08
+913,31,4,Really comfortable and fits well.,2025-07-13
+904,47,1,Colour faded quickly. Not worth the money.,2025-07-13
+674,41,0,Nothing like the photos. Returned it.,2025-07-14
+295,77,5,Absolutely love it! Perfect fit.,2025-07-19
+910,48,4,Really comfortable and fits well.,2025-07-19
+808,5,3,Decent for the price. Does the job.,2025-07-19
+152,75,1,Poor quality fabric and the stitching came loose.,2025-07-20
+902,77,5,My new favourite. Washes really well too.,2025-07-22
+674,11,3,Decent for the price. Does the job.,2025-07-23
+158,58,3,,2025-07-25
+780,29,0,Nothing like the photos. Returned it.,2025-07-27
+97,25,0,Worst purchase I've made. Would not recommend.,2025-07-29
+345,77,4,,2025-08-02
+367,74,3,Nice colour but runs a bit small.,2025-08-04
+218,36,3,Nice colour but runs a bit small.,2025-08-04
+89,1,5,"Brilliant quality, already ordered another colour.",2025-08-07
+843,14,4,Lovely fabric. Only wish it came in more colours.,2025-08-08
+739,3,3,,2025-08-09
+779,46,5,My new favourite. Washes really well too.,2025-08-12
+39,71,4,Really comfortable and fits well.,2025-08-12
+748,68,0,,2025-08-12
+235,73,3,Nice colour but runs a bit small.,2025-08-13
+162,38,0,Fell apart after one wash. Very disappointed.,2025-08-20
+256,39,0,Worst purchase I've made. Would not recommend.,2025-08-21
+122,75,1,,2025-08-22
+276,25,4,,2025-08-23
+358,68,0,,2025-08-25
+105,48,0,Worst purchase I've made. Would not recommend.,2025-08-25
+649,60,5,Absolutely love it! Perfect fit.,2025-08-27
+291,54,2,Okay but the fit wasn't great for me.,2025-08-28
+704,57,4,Really comfortable and fits well.,2025-08-28
+119,1,5,,2025-08-28
+446,72,4,"Good quality, would buy again.",2025-08-30
+111,30,2,,2025-09-01
+965,22,5,Absolutely love it! Perfect fit.,2025-09-02
+363,38,2,"Not terrible, but I expected better for the price.",2025-09-02
+27,42,1,,2025-09-05
+294,77,0,,2025-09-07
+327,76,2,Material is thinner than expected.,2025-09-07
+676,40,4,Really comfortable and fits well.,2025-09-09
+498,65,0,Nothing like the photos. Returned it.,2025-09-12
+722,18,1,,2025-09-15
+319,62,2,Material is thinner than expected.,2025-09-17
+784,62,5,,2025-09-18
+374,41,1,Colour faded quickly. Not worth the money.,2025-09-19
+381,62,4,,2025-09-21
+519,7,3,Nice colour but runs a bit small.,2025-09-23
+75,60,1,Poor quality fabric and the stitching came loose.,2025-09-24
+582,36,1,Colour faded quickly. Not worth the money.,2025-09-24
+879,7,5,My new favourite. Washes really well too.,2025-09-25
+373,46,3,"Average quality, comfortable enough.",2025-09-25
+519,16,2,"Not terrible, but I expected better for the price.",2025-09-25
+889,1,3,Decent for the price. Does the job.,2025-09-26
+514,9,5,Absolutely love it! Perfect fit.,2025-09-28
+97,74,3,,2025-10-01
+257,73,3,Decent for the price. Does the job.,2025-10-01
+798,58,0,Nothing like the photos. Returned it.,2025-10-08
+130,74,5,,2025-10-09
+938,77,5,"Brilliant quality, already ordered another colour.",2025-10-12
+215,33,0,,2025-10-13
+466,53,0,Fell apart after one wash. Very disappointed.,2025-10-14
+186,66,0,Fell apart after one wash. Very disappointed.,2025-10-16
+588,22,2,"Not terrible, but I expected better for the price.",2025-10-17
+779,77,3,Decent for the price. Does the job.,2025-10-17
+357,50,2,Okay but the fit wasn't great for me.,2025-10-18
+3,58,1,,2025-10-19
+865,29,1,Poor quality fabric and the stitching came loose.,2025-10-21
+278,15,1,Poor quality fabric and the stitching came loose.,2025-10-24
+375,36,5,Absolutely love it! Perfect fit.,2025-10-24
+588,77,0,,2025-10-24
+62,77,4,"Good quality, would buy again.",2025-10-27
+25,23,3,Decent for the price. Does the job.,2025-11-04
+180,48,2,,2025-11-06
+841,26,1,Sizing was way off and it felt cheap.,2025-11-07
+909,56,1,,2025-11-08
+145,13,2,Material is thinner than expected.,2025-11-09
+431,10,3,,2025-11-10
+871,50,3,Nice colour but runs a bit small.,2025-11-10
+387,58,4,Lovely fabric. Only wish it came in more colours.,2025-11-10
+820,79,5,My new favourite. Washes really well too.,2025-11-12
+283,65,1,Sizing was way off and it felt cheap.,2025-11-14
+561,13,1,Sizing was way off and it felt cheap.,2025-11-15
+318,46,0,,2025-11-16
+431,12,0,,2025-11-19
+318,9,0,,2025-11-21
+658,9,0,,2025-11-22
+431,31,4,"Good quality, would buy again.",2025-11-24
+864,71,4,Really comfortable and fits well.,2025-11-26
+416,33,5,,2025-11-30
+166,76,5,"Brilliant quality, already ordered another colour.",2025-12-02
+453,16,2,,2025-12-04
+157,33,4,,2025-12-04
+318,16,2,,2025-12-05
+266,36,3,Nice colour but runs a bit small.,2025-12-05
+591,67,4,Lovely fabric. Only wish it came in more colours.,2025-12-08
+653,62,3,Nice colour but runs a bit small.,2025-12-08
+181,55,1,Poor quality fabric and the stitching came loose.,2025-12-09
+805,31,1,Sizing was way off and it felt cheap.,2025-12-09
+771,42,3,,2025-12-14
+987,71,0,Worst purchase I've made. Would not recommend.,2025-12-14
+754,6,5,Absolutely love it! Perfect fit.,2025-12-17
+128,38,0,Worst purchase I've made. Would not recommend.,2025-12-18
+164,31,5,My new favourite. Washes really well too.,2025-12-18
+585,53,2,Material is thinner than expected.,2025-12-20
+472,5,5,Absolutely love it! Perfect fit.,2025-12-22
+754,16,1,Poor quality fabric and the stitching came loose.,2025-12-26
+430,73,4,,2025-12-29
+212,58,2,"Not terrible, but I expected better for the price.",2025-12-31
+514,40,2,"Not terrible, but I expected better for the price.",2025-12-31
+245,46,0,Nothing like the photos. Returned it.,2026-01-02
+625,77,3,Nice colour but runs a bit small.,2026-01-02
+952,33,2,Material is thinner than expected.,2026-01-02
+759,11,2,Okay but the fit wasn't great for me.,2026-01-06
+329,31,4,Really comfortable and fits well.,2026-01-08
+201,58,0,Worst purchase I've made. Would not recommend.,2026-01-08
+197,10,4,Lovely fabric. Only wish it came in more colours.,2026-01-09
+355,55,1,Poor quality fabric and the stitching came loose.,2026-01-12
+724,42,0,,2026-01-12
+571,32,0,Fell apart after one wash. Very disappointed.,2026-01-13
+238,76,0,Worst purchase I've made. Would not recommend.,2026-01-15
+915,25,4,Lovely fabric. Only wish it came in more colours.,2026-01-17
+195,72,5,"Brilliant quality, already ordered another colour.",2026-01-18
+508,62,0,Fell apart after one wash. Very disappointed.,2026-01-22
+760,79,5,,2026-01-22
+724,77,5,,2026-01-23
+195,50,5,"Brilliant quality, already ordered another colour.",2026-01-23
+456,20,5,My new favourite. Washes really well too.,2026-01-23
+400,16,0,Worst purchase I've made. Would not recommend.,2026-01-24
+42,9,4,Really comfortable and fits well.,2026-01-26
+167,15,2,Material is thinner than expected.,2026-01-27
+204,25,1,Colour faded quickly. Not worth the money.,2026-01-28
+626,74,3,"Average quality, comfortable enough.",2026-01-28
+115,48,4,Lovely fabric. Only wish it came in more colours.,2026-01-29
+891,12,4,Lovely fabric. Only wish it came in more colours.,2026-01-29
+149,50,4,"Good quality, would buy again.",2026-01-30
+573,25,2,,2026-02-01
+935,3,3,,2026-02-01
+462,63,4,Really comfortable and fits well.,2026-02-03
+212,15,0,Fell apart after one wash. Very disappointed.,2026-02-04
+181,36,1,,2026-02-06
+291,22,5,,2026-02-06
+934,13,2,,2026-02-07
+4,31,5,My new favourite. Washes really well too.,2026-02-10
+217,69,2,Okay but the fit wasn't great for me.,2026-02-10
+19,60,5,My new favourite. Washes really well too.,2026-02-11
+866,28,2,Okay but the fit wasn't great for me.,2026-02-11
+915,72,3,Decent for the price. Does the job.,2026-02-12
+497,50,5,Absolutely love it! Perfect fit.,2026-02-13
+378,31,1,,2026-02-13
+140,35,2,Okay but the fit wasn't great for me.,2026-02-14
+374,67,0,Nothing like the photos. Returned it.,2026-02-14
+659,56,0,Fell apart after one wash. Very disappointed.,2026-02-14
+809,48,5,Absolutely love it! Perfect fit.,2026-02-15
+212,14,1,Sizing was way off and it felt cheap.,2026-02-19
+661,77,0,Worst purchase I've made. Would not recommend.,2026-02-19
+331,65,2,Material is thinner than expected.,2026-02-22
+991,80,4,"Good quality, would buy again.",2026-02-22
+487,14,5,Absolutely love it! Perfect fit.,2026-02-25
+856,17,0,Worst purchase I've made. Would not recommend.,2026-02-27
+148,7,2,Material is thinner than expected.,2026-02-28
+212,44,1,Sizing was way off and it felt cheap.,2026-03-01
+148,77,1,,2026-03-01
+579,26,2,Material is thinner than expected.,2026-03-02
+212,54,1,Sizing was way off and it felt cheap.,2026-03-05
+129,60,2,,2026-03-07
+179,5,4,,2026-03-07
+694,31,0,Fell apart after one wash. Very disappointed.,2026-03-08
+546,38,2,Material is thinner than expected.,2026-03-09
+348,13,5,,2026-03-09
+748,17,4,"Good quality, would buy again.",2026-03-09
+649,63,2,,2026-03-10
+918,26,1,,2026-03-11
+882,71,4,"Good quality, would buy again.",2026-03-12
+478,63,0,Worst purchase I've made. Would not recommend.,2026-03-15
+60,62,2,,2026-03-17
+444,11,1,Poor quality fabric and the stitching came loose.,2026-03-17
+87,12,3,"Average quality, comfortable enough.",2026-03-20
+160,73,5,"Brilliant quality, already ordered another colour.",2026-03-23
+722,9,5,Absolutely love it! Perfect fit.,2026-03-23
+917,41,3,Nice colour but runs a bit small.,2026-03-24
+85,77,5,My new favourite. Washes really well too.,2026-03-26
+752,20,5,My new favourite. Washes really well too.,2026-03-28
+712,15,3,,2026-04-04
+422,41,3,Nice colour but runs a bit small.,2026-04-07
+140,41,5,,2026-04-09
+180,21,2,Material is thinner than expected.,2026-04-11
+323,41,3,Nice colour but runs a bit small.,2026-04-12
+754,66,2,Okay but the fit wasn't great for me.,2026-04-12
+625,75,4,Lovely fabric. Only wish it came in more colours.,2026-04-13
+140,33,1,,2026-04-16
+822,69,2,"Not terrible, but I expected better for the price.",2026-04-17
+988,13,2,"Not terrible, but I expected better for the price.",2026-04-20
+420,33,5,"Brilliant quality, already ordered another colour.",2026-04-20
+294,14,1,,2026-04-22
+289,68,5,"Brilliant quality, already ordered another colour.",2026-04-23
+262,72,3,"Average quality, comfortable enough.",2026-04-24
+226,12,3,Nice colour but runs a bit small.,2026-04-27
+926,43,4,,2026-04-29
+194,38,2,,2026-04-29
+169,48,2,,2026-04-29
+401,28,4,"Good quality, would buy again.",2026-04-30
+927,72,0,,2026-05-03
+114,31,2,Okay but the fit wasn't great for me.,2026-05-06
+294,7,4,"Good quality, would buy again.",2026-05-08
+467,76,3,Nice colour but runs a bit small.,2026-05-09
+397,52,3,Decent for the price. Does the job.,2026-05-09
+494,80,0,Nothing like the photos. Returned it.,2026-05-09
+988,76,2,,2026-05-10
+898,31,4,"Good quality, would buy again.",2026-05-11
+241,71,5,Absolutely love it! Perfect fit.,2026-05-12
+826,9,3,Nice colour but runs a bit small.,2026-05-15
+180,36,3,Nice colour but runs a bit small.,2026-05-16
+898,77,5,My new favourite. Washes really well too.,2026-05-18
+275,36,3,"Average quality, comfortable enough.",2026-05-19
+532,25,4,Lovely fabric. Only wish it came in more colours.,2026-05-19
+812,42,1,Poor quality fabric and the stitching came loose.,2026-05-19
+921,75,2,,2026-05-20
+997,71,0,Worst purchase I've made. Would not recommend.,2026-05-21
+617,1,3,,2026-05-24
+988,12,0,Worst purchase I've made. Would not recommend.,2026-05-26
+464,20,0,,2026-05-26
+341,17,2,Material is thinner than expected.,2026-05-27
+271,56,1,,2026-05-30
+464,77,0,Worst purchase I've made. Would not recommend.,2026-05-31
+236,40,4,,2026-06-01
+870,21,0,,2026-06-01
+278,11,1,Sizing was way off and it felt cheap.,2026-06-03
+619,53,2,"Not terrible, but I expected better for the price.",2026-06-05
+97,58,5,"Brilliant quality, already ordered another colour.",2026-06-08
+25,77,5,,2026-06-10
+179,45,3,Decent for the price. Does the job.,2026-06-10
+179,17,1,Colour faded quickly. Not worth the money.,2026-06-10
+410,78,1,,2026-06-11
+650,66,4,Really comfortable and fits well.,2026-06-13
+892,2,4,Lovely fabric. Only wish it came in more colours.,2026-06-13
+996,22,4,,2026-06-14
+852,36,5,"Brilliant quality, already ordered another colour.",2026-06-16
+72,45,5,Absolutely love it! Perfect fit.,2026-06-17
+575,13,4,"Good quality, would buy again.",2026-06-19
+426,29,2,Material is thinner than expected.,2026-06-22
+277,58,0,Fell apart after one wash. Very disappointed.,2026-06-24
+179,55,4,Really comfortable and fits well.,2026-06-24
+532,43,5,,2026-06-25
+723,46,2,Material is thinner than expected.,2026-06-28
+820,26,0,,2026-06-29
+251,74,0,Worst purchase I've made. Would not recommend.,2026-06-30
+836,25,4,"Good quality, would buy again.",2026-06-30
+293,77,2,Material is thinner than expected.,2026-06-30
+72,77,4,Really comfortable and fits well.,2026-07-02
+168,41,1,Colour faded quickly. Not worth the money.,2026-07-02
+237,31,5,My new favourite. Washes really well too.,2026-07-03
+479,13,0,Worst purchase I've made. Would not recommend.,2026-07-05
+251,22,5,"Brilliant quality, already ordered another colour.",2026-07-05
+72,63,2,,2026-07-06
+72,78,1,Poor quality fabric and the stitching came loose.,2026-07-06
+892,77,1,Sizing was way off and it felt cheap.,2026-07-07
+517,42,3,,2026-07-10
+650,48,5,Absolutely love it! Perfect fit.,2026-07-11
+945,56,2,,2026-07-13
+17,8,5,My new favourite. Washes really well too.,2026-07-13
+554,56,2,Okay but the fit wasn't great for me.,2026-07-15
+650,54,4,Lovely fabric. Only wish it came in more colours.,2026-07-15
+207,12,4,,2026-07-18
+630,37,1,,2026-07-19
+293,36,5,,2026-07-22
+958,56,5,My new favourite. Washes really well too.,2026-07-23
+281,28,3,Nice colour but runs a bit small.,2026-07-23
+199,41,3,Decent for the price. Does the job.,2026-07-23
+293,72,0,Fell apart after one wash. Very disappointed.,2026-07-23
+18,1,4,Really comfortable and fits well.,2026-07-24
+354,25,4,"Good quality, would buy again.",2026-07-24
+183,77,5,Absolutely love it! Perfect fit.,2026-07-27
+231,80,4,Really comfortable and fits well.,2026-07-31
+185,62,1,,2026-08-01
+312,74,2,Okay but the fit wasn't great for me.,2026-08-02
+340,77,5,My new favourite. Washes really well too.,2026-08-04
+281,59,4,"Good quality, would buy again.",2026-08-05
+427,48,0,Nothing like the photos. Returned it.,2026-08-05
+427,53,0,,2026-08-09
+428,30,3,"Average quality, comfortable enough.",2026-08-11
+137,16,1,Colour faded quickly. Not worth the money.,2026-08-12
+459,71,5,My new favourite. Washes really well too.,2026-08-12
+462,80,2,,2026-08-13
+636,38,0,Worst purchase I've made. Would not recommend.,2026-08-15
+47,66,2,Okay but the fit wasn't great for me.,2026-08-16
+535,24,2,"Not terrible, but I expected better for the price.",2026-08-16
+946,53,3,"Average quality, comfortable enough.",2026-08-17
+418,8,0,,2026-08-17
+261,26,0,Nothing like the photos. Returned it.,2026-08-18
+993,61,3,"Average quality, comfortable enough.",2026-08-18
+60,48,5,"Brilliant quality, already ordered another colour.",2026-08-19
+658,47,5,Absolutely love it! Perfect fit.,2026-08-19
+137,60,2,"Not terrible, but I expected better for the price.",2026-08-19
+47,36,1,Sizing was way off and it felt cheap.,2026-08-20
+84,76,1,,2026-08-21
+183,3,0,Fell apart after one wash. Very disappointed.,2026-08-22
+963,16,3,Decent for the price. Does the job.,2026-08-22
+855,23,5,My new favourite. Washes really well too.,2026-08-24
+276,47,5,Absolutely love it! Perfect fit.,2026-08-24
+85,51,3,,2026-08-24
+637,72,1,Poor quality fabric and the stitching came loose.,2026-08-26
+527,48,2,Okay but the fit wasn't great for me.,2026-08-28
+665,7,2,Material is thinner than expected.,2026-08-29
+333,15,5,,2026-08-29
+137,47,2,"Not terrible, but I expected better for the price.",2026-08-31
+762,79,3,"Average quality, comfortable enough.",2026-09-03
+658,45,1,Sizing was way off and it felt cheap.,2026-09-05
+420,17,4,"Good quality, would buy again.",2026-09-05
+745,27,2,Okay but the fit wasn't great for me.,2026-09-05
+427,70,2,,2026-09-06
+520,77,5,,2026-09-08
+863,36,2,"Not terrible, but I expected better for the price.",2026-09-08
+860,52,4,Really comfortable and fits well.,2026-09-13
+52,57,4,,2026-09-13
+650,24,4,Lovely fabric. Only wish it came in more colours.,2026-09-13
+59,55,3,,2026-09-15
+130,56,4,"Good quality, would buy again.",2026-09-16
+206,39,4,,2026-09-16
+819,59,2,"Not terrible, but I expected better for the price.",2026-09-16
+467,53,2,,2026-09-16
+586,41,1,,2026-09-19
+170,15,0,Fell apart after one wash. Very disappointed.,2026-09-19
+8,71,1,,2026-09-19
+484,36,0,Nothing like the photos. Returned it.,2026-09-20
+302,11,4,,2026-09-21
+105,77,1,Poor quality fabric and the stitching came loose.,2026-09-22
+206,77,1,Sizing was way off and it felt cheap.,2026-09-23
+593,9,2,,2026-09-23
+520,73,2,Material is thinner than expected.,2026-09-25
+885,25,0,,2026-09-26
+745,20,5,"Brilliant quality, already ordered another colour.",2026-09-27
+451,42,1,Colour faded quickly. Not worth the money.,2026-09-28
+359,22,1,Colour faded quickly. Not worth the money.,2026-09-28
+537,44,4,Really comfortable and fits well.,2026-09-28
+680,25,3,Decent for the price. Does the job.,2026-09-29
+170,41,0,Fell apart after one wash. Very disappointed.,2026-09-29
+497,22,1,Poor quality fabric and the stitching came loose.,2026-09-29
+82,23,4,Lovely fabric. Only wish it came in more colours.,2026-09-29
+204,10,3,"Average quality, comfortable enough.",2026-10-01
+10,39,3,"Average quality, comfortable enough.",2026-10-03
+712,74,1,,2026-10-03
+468,63,2,Material is thinner than expected.,2026-10-04
+466,20,1,Colour faded quickly. Not worth the money.,2026-10-05
+880,70,2,Okay but the fit wasn't great for me.,2026-10-06
+179,80,1,Poor quality fabric and the stitching came loose.,2026-10-07
+915,55,3,Decent for the price. Does the job.,2026-10-08
+625,36,2,Okay but the fit wasn't great for me.,2026-10-11
+751,43,1,Colour faded quickly. Not worth the money.,2026-10-13
+304,29,5,Absolutely love it! Perfect fit.,2026-10-13
+770,10,0,,2026-10-13
+874,10,2,Material is thinner than expected.,2026-10-14
+712,53,5,"Brilliant quality, already ordered another colour.",2026-10-15
+309,77,4,,2026-10-19
+275,73,5,"Brilliant quality, already ordered another colour.",2026-10-19
+47,14,4,Lovely fabric. Only wish it came in more colours.,2026-10-21
+529,60,0,Nothing like the photos. Returned it.,2026-10-21
+716,16,3,Nice colour but runs a bit small.,2026-10-23
+20,1,1,,2026-10-23
+574,67,2,"Not terrible, but I expected better for the price.",2026-10-23
+476,65,2,Okay but the fit wasn't great for me.,2026-10-23
+618,16,0,,2026-10-24
+367,63,2,"Not terrible, but I expected better for the price.",2026-10-29
+904,22,4,,2026-10-31
+69,50,3,Nice colour but runs a bit small.,2026-10-31
+309,41,2,"Not terrible, but I expected better for the price.",2026-11-01
+152,33,0,Fell apart after one wash. Very disappointed.,2026-11-02
+574,74,1,Poor quality fabric and the stitching came loose.,2026-11-03
+729,71,1,Sizing was way off and it felt cheap.,2026-11-03
+427,45,5,"Brilliant quality, already ordered another colour.",2026-11-03
+360,45,3,,2026-11-03
+75,62,0,,2026-11-03
+191,72,1,,2026-11-03
+869,18,4,"Good quality, would buy again.",2026-11-03
+610,73,3,"Average quality, comfortable enough.",2026-11-03
+53,60,1,Poor quality fabric and the stitching came loose.,2026-11-03
+847,15,0,Worst purchase I've made. Would not recommend.,2026-11-03
+957,77,5,,2026-11-03
+712,80,3,Decent for the price. Does the job.,2026-11-03
+179,22,5,"Brilliant quality, already ordered another colour.",2026-11-03
+53,15,3,Nice colour but runs a bit small.,2026-11-03
+432,63,3,Decent for the price. Does the job.,2026-11-03
+357,19,2,Material is thinner than expected.,2026-11-03
+104,16,0,Fell apart after one wash. Very disappointed.,2026-11-03

@@ -48,7 +48,8 @@ CREATE TABLE ORDER_PRODUCT (
 CREATE TABLE REVIEW (
     customer_id  INT           NOT NULL,
     product_id   INT           NOT NULL,
-    rating       INT           NOT NULL,
+    rating       INT           NOT NULL
+                 CHECK (rating <= 5 AND rating >= 0),
     description  VARCHAR(500),                  
     review_date  DATE          NOT NULL,
     PRIMARY KEY (customer_id, product_id),
